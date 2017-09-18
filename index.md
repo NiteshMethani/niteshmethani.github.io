@@ -30,7 +30,7 @@ Google India Ph.D. Fellowship, 2017
 I worked in Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Software Engineer in Resource Manager- Professional Soultions Group team.
 
 # Academic Details
-I have completed my B.Tech from Visvesvaraya National Institute of Technology, Nagpur in Computer Science and Engineering in 2012.
+I have completed my B.Tech from VNIT, Nagpur in Computer Science and Engineering in 2012.
 
 # Contact:
 
