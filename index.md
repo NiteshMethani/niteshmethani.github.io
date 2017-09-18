@@ -6,7 +6,7 @@
 <div style = "text-align: justify"> I am currently pursuing my M.S. under Dr. Mitesh M. Khapra at IIT Madras.
 </div>
 
-# Internship
+# Internships
 I worked in Persistent Systems Pvt. Ltd. from June 2015 - March 2016 as a Project Intern.
 
 # Academic Details
