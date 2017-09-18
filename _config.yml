@@ -16,7 +16,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: PrekshaNema25
+  github: niteshmethani
   instagram:
   linkedin: preksha-nema-0b940818
   pinterest:
@@ -36,6 +36,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
+url: http://www.codzify.com/
 url: http://niteshmethani.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
