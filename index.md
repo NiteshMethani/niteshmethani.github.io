@@ -3,7 +3,7 @@
 
 </head>
 # About Me
-<div style = "text-align: justify"> I am currently pursuing my M.S. under Dr. Mitesh M. Khapra at IIT Madras.
+<div style = "text-align: justify"> I am currently pursuing my M.S. under Prof. Mitesh M. Khapra at IIT Madras.
 </div>
 
 # Internships
@@ -15,4 +15,4 @@ I have completed my B.E from Sipna College of Engineering and Technology, Amrava
 # Contact:
 
 
-initesh [at] cse[dot]iitm[dot]ac[dot]in
+initeshmethani [at] gmail[dot]com
