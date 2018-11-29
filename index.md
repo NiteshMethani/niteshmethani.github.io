@@ -15,4 +15,4 @@ I have completed my B.E from Sipna College of Engineering and Technology, Amrava
 # Contact:
 
 
-initeshmethani [at] gmail[dot]com
+nmethani [at] cse [dot] iitm [dot] ac [dot] in
